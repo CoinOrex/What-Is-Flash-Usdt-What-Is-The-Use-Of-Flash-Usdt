@@ -13,7 +13,7 @@ To put it simply, think of Flash USDT as a counterfeit currency that looks and f
 
    - You can trade Flash USDT on exchanges, and the profit you make from trading will be real money. This profit can be converted into your country's currency.
      
-   # - How to identify if it's Flash USDT or real USDT after trading?
+   - How to identify if it's Flash USDT or real USDT after trading?
      
      When you trade using Flash USDT on any exchange, you'll need to transfer funds to your trading account. After trading, the profit you earn will automatically appear in your spot account as real money, while the Flash USDT will remain in your trading account.
 
